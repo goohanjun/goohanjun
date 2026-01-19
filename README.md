@@ -1,7 +1,7 @@
 # Hanjun Goo
 **Software Engineer · Machine Learning Engineer**  
 📍 Sindelfingen, Germany  
-📧 goohanjun@gmail.com | 📞 +49-178-2875749  
+📧 goohanjun@gmail.com
 
 ---
 
